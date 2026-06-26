@@ -1,5 +1,6 @@
 {
 	"/": [],
 	"/cart": [],
+	"/products": [],
 	"/product/[id]": []
 }
